@@ -6,3 +6,6 @@ E' IL PRIMO PROGETTO PER IMPARARE
 # BISMILLAH
 ![7hvdp116z3pb1](https://github.com/user-attachments/assets/ea02a383-aa20-4d8b-b538-9b70d8b393c9)
 ![unnamed](https://github.com/user-attachments/assets/fbe024d2-69b8-42f1-b9ed-413322022b14)
+
+# FABIO NERO
+![EUROBET](https://github.com/user-attachments/assets/01e81ec5-f3e7-4255-94ff-a079bfd33f2a)
