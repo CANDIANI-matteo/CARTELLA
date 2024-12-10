@@ -1,4 +1,6 @@
 # Candiani
+![unnamed](https://github.com/user-attachments/assets/be0f293c-c04d-4fa8-af5f-b0299800a173)
+
 ![91-snai-cropped-25](https://github.com/user-attachments/assets/51d1cca2-f388-438f-baa5-e73fabcf8443)
 
 ## PROGETTO TEST
