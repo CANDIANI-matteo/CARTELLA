@@ -1,0 +1,8 @@
+@echo off
+:agora
+start "" https://match.loovedate.com/landers/ms-it-68-s2/?extid=EAIaIQobChMI_O-qlMrqiQMVvZmDBx0_9AWTEAAYAiAAEgLSdPD_BwE&cost=%7Bcost%7D&lan=%7Blan%7D&utm_source=google&source=google&device=m&utm_medium=search&utm_campaign=20006284707&utm_content=m&utm_term=dating&cpid=edc4f2fe-a6e3-484d-a296-319842479c1c&gad_source=1&gclid=EAIaIQobChMI_O-qlMrqiQMVvZmDBx0_9AWTEAAYAiAAEgLSdPD_BwE&gclsrc=aw.ds4
+start "" https://www.bing.com/ck/a?!&&p=5ad969cba01dd99a4a3509fa70b340b13a56ca85a562b9ad743e17f3f552e2c4JmltdHM9MTczMjA2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0b8b973d-9d22-6ec4-22b8-822c9cff6f78&psq=furry+mate&u=a1aHR0cHM6Ly9mdXJyeW1hdGUuY29tLw&ntb=1
+start "" https://www.bing.com/ck/a?!&&p=0f7b460e98df70d43e4846e1674cb852a53ee9f835a5b4d3d72db0f623b31346JmltdHM9MTczMjA2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0b8b973d-9d22-6ec4-22b8-822c9cff6f78&psq=sito+di+incontri+in+russo&u=a1aHR0cHM6Ly9pdC5ydXNzaWFuLWRhdGluZy5jb20v&ntb=1
+start "" https://www.bing.com/ck/a?!&&p=a30f09a2ad7d26462f54232d3e1b4abecdeb135560dc417794ed2dacec0a65e1JmltdHM9MTczMjA2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0b8b973d-9d22-6ec4-22b8-822c9cff6f78&psq=%d0%a1%d0%b0%d0%b9%d1%82+%d0%b7%d0%bd%d0%b0%d0%ba%d0%be%d0%bc%d1%81%d1%82%d0%b2&u=a1aHR0cHM6Ly9ydXNkYXRlLm5ldC8&ntb=1
+start "" https://www.bing.com/ck/a?!&&p=5b889c3889088e121be49f38cce9445e27da7683a9a2f738ae95e3e596aeb608JmltdHM9MTczMjA2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0b8b973d-9d22-6ec4-22b8-822c9cff6f78&psq=%d0%a1%d0%b0%d0%b9%d1%82+%d0%b7%d0%bd%d0%b0%d0%ba%d0%be%d0%bc%d1%81%d1%82%d0%b2&u=a1aHR0cHM6Ly9ydXNkYXRlLml0Lw&ntb=1
+goto :agora
